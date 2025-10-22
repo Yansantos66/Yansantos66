@@ -33,7 +33,7 @@ Esse repositório tem o intuito de compartilhar estudos e projetos para desenvol
     </a>
 </div>
 
-📫 Me encontre em:  
+📫
 <div>
     <a href="www.linkedin.com/in/yan-santos-754785223" target="_blank">
     <img 
